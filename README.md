@@ -34,9 +34,14 @@ Deployment with Streamlit
 
 
 Mobile_Addiction_Analyzer/
+
 │
 ├── app.py                      # Main Streamlit application
+
 ├── mobile_addiction_model.pkl  # Trained ML model
+
 ├── encoder.pkl                 # Label encoder (if used)
+
 ├── requirements.txt            # Dependencies
+
 └── README.md                   # Project documentation
